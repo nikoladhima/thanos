@@ -168,8 +168,8 @@ keySystem:CreateButton({
         if Input == key then
           ChangeData("SavedKey.key",key)
           task.wait()
+	  loadstring(game:HttpGet("https://pastebin.com/raw/dbpfU8Cf"))()
           Rayfield:Destroy()
-          MakeScriptHub()
       else
           IncorrectKeyNotification()
   end
