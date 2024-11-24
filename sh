@@ -124,7 +124,7 @@ else
 end
 
 function MakeScriptHub()
-    loadstring(game:HttpGet("https://pastebin.com/dbpfU8Cf"))()
+    loadstring(game:HttpGet("https://pastebin.com/raw/dbpfU8Cf"))()
 end
 
 if ReturnData("SavedKey.key") == key then
