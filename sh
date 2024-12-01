@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/dbpfU8Cf"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/trinyxScripts/VexxisHub/main/Vexxis.lua"))()
 [[local Player = game.Players.LocalPlayer
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
